@@ -29,7 +29,7 @@
       <div class="header__square-pic"></div>
     </header>
     <main class="content">
-      <section class="description">
+      <section id="description">
         <div class="two-columns">
           <h5 class="two-columns__brief brief">Главные проблемы в обучении</h5>
           <article class="two-columns__main-text main-text">
@@ -45,7 +45,7 @@
         </div>
       </section>
       <section class="digits">
-        <div class="digits__section-title section-title">
+        <div class="digits__section-title">
           <h3>Цифры и факты</h3>
         </div>
         <div class="digits__section-subtitle section-subtitle">
@@ -91,7 +91,7 @@
         </ul>
       </section>
 
-      <section class="feynman">
+      <section class="feynman" id="mentors">
         <div class="feynman__title">
           <h2>Метод Фейнмана</h2>
         </div>
@@ -157,35 +157,34 @@
     </main>
     <footer class="footer">
       <div class="footer__columns">
-        <div class="column footer__column_copyright">
-
-          <div class="footer__column_copyright">
+        <div class=" footer__column_copyright">
             <img src="/images/logo_place_footer.svg" alt="logo pic" class="logo__place-footer logo">
-            <p class="footer__author">© Alex Piontek</p>
-          </div>
+            <p class="footer__author footer__author_dark ">© Alex Piontek</p>
         </div>
         <div class="column footer__column_info">
-          <h6 class="column-heading">О Практикуме</h6>
-          <ul class="footer__column_links">
+          <div class="column ">
+          <h6 class="footer__column_heading footer__column_heading_dark">О Практикуме</h6>
+          <ul class="footer__column_links footer__column_links_dark">
             <li><a class="footer__column-link" href="#">Главная</li>
-            <li><a class="footer__column-link" href="#">Концепция</a></li>
-            <li><a class="footer__column-link" href="#">Наставники</a></a></li>
+            <li><a class="footer__column-link" href="#description">Концепция</a></li>
+            <li><a class="footer__column-link" href="#mentors">Наставники</a></a></li>
           </ul>
         </div>
+        </div>
         <div class="column footer__column_social">
-          <div class="footer__social">
-            <h6 class="column-heading">Соцсети</h6>
+          <div class="column footer__social">
+            <h6 class="footer__column_heading footer__column_heading_dark">Соцсети</h6>
             <ul class="footer__column_links">
               <li>
-                <a class="footer__column-link" href="#"><img class="footer__social-icon"
+                <a class="footer__column-link" href="instagram.com"><img class="footer__social-icon"
                     src="/images/instagram_color_white.svg" alt="social instagram">Instagram</a>
               </li>
               <li>
-                <a class="footer__column-link" href="#"><img class="footer__social-icon"
+                <a class="footer__column-link" href="https://vk.com/"><img class="footer__social-icon"
                     src="/images/vk_color_white.svg" alt="social vk">ВКонтакте</a>
               </li>
               <li>
-                <a class="footer__column-link" href="#"><img class="footer__social-icon"
+                <a class="footer__column-link" href="https://facebook.com"><img class="footer__social-icon"
                     src="/images/facebook_color_white.svg" alt="social facebook">Facebook</a>
               </li>
             </ul>
