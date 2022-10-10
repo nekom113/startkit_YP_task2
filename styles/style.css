@@ -176,7 +176,6 @@
   margin-block-start: 0;
   margin-block-end: 0;
   padding-inline-start: 0;
-  margin-bottom: 20px;
 }
 
 .table__heading_theme_dark {
@@ -189,6 +188,7 @@
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
+  margin-top: 20px;
 
 }
 
