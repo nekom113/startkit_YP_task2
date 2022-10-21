@@ -5,15 +5,13 @@
 
 
 .cards {
-  border: 2px solid black;
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: start; */
-  /* gap: 0 100px; */
+  justify-content: start;
+  gap: 0 100px;
   width: 920px;
-
 
 }

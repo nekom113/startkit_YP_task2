@@ -1,4 +1,10 @@
-.cards__description{
-  border: 2px solid rgb(197, 29, 29);
+.cards__description {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-top: 16px;
+  /* border: 2px solid rgb(197, 29, 29); */
   text-align: center;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
 }
