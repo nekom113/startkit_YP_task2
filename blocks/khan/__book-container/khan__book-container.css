@@ -1,8 +1,4 @@
-.khan__book-pic{
-  margin: 0;
-  padding:0;
-  box-sizing: border-box;
-  width: 620px;
-  height: 608px;
-
+.khan__book-container{
+  display: flex;
+  flex-direction: row;
 }
