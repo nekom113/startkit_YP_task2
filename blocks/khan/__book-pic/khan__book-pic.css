@@ -1,10 +1,10 @@
-.khan__book-pic{
+.khan__book-pic {
   margin: 0;
-  padding:0;
+  padding: 0;
   box-sizing: border-box;
   width: 620px;
   height: 608px;
-  background: url(/images/khan-book.jpg);
+  background: url(../../../images/khan-book.jpg);
   background-repeat: no-repeat;
   margin-right: 48px;
 }
