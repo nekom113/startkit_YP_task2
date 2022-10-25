@@ -1,0 +1,12 @@
+.two-columns__paragraph {
+  padding-bottom: 30px;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+  margin-block-end: 0;
+  margin-block-start: 0;
+}
+
+.two-columns__paragraph:last-child {
+  padding-bottom: 0;
+}

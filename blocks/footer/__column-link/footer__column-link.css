@@ -1,0 +1,12 @@
+.footer__column-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-link:last-child {
+  margin-bottom: 0;
+}
+
+.footer__column-link:hover {
+  color: grey;
+}
