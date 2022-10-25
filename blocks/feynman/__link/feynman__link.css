@@ -11,5 +11,6 @@
 }
 
 .feynman__link:hover {
-  color: #054497;
+  color: #88b9fae8;
+  transition: all .5s ease;
 }

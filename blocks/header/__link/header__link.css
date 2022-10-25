@@ -4,5 +4,6 @@
 }
 
 .header__link:hover {
-  color: #054497;
+  color: #a4c7f5e8;
+  transition: all .5s ease;
 }
