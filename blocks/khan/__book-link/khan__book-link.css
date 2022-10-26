@@ -5,10 +5,4 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
-
-}
-
-.khan__book-link:hover {
-  color: #88b9fae8;
-  transition: all .5s ease;
 }

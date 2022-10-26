@@ -6,8 +6,3 @@
 .footer__column-link:last-child {
   margin-bottom: 0;
 }
-
-.footer__column-link:hover {
-  color: rgba(182, 182, 182, 0.938);
-  transition: all .5s ease;
-}
