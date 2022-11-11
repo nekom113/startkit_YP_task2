@@ -9,7 +9,7 @@
 **Планируемые доработки:**
 *Адаптировать под мобильный формат.*
 
-[Посмотреть проект можно тут](https://nekom113.github.io/startkit_YP_task2.github.io/)
+[Посмотреть проект](https://nekom113.github.io/startkit_YP_task2.github.io/)
 
 
 
