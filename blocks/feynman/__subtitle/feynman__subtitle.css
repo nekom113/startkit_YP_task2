@@ -11,3 +11,12 @@
   margin-inline-end: 0;
   padding-inline-start: 0;
 }
+
+@media (max-width: 844px) {
+  .feynman__subtitle {
+    font-size: 25px;
+    line-height: 1.5;
+    top: 50px;
+
+  }
+}

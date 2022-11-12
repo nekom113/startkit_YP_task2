@@ -10,3 +10,12 @@
   margin-inline-end: 0;
   padding-inline-start: 0;
 }
+
+
+@media (max-width: 844px) {
+  .header__title {
+    font-size: 68px;
+    max-width: 430px;
+    line-height: 76px;
+  }
+}

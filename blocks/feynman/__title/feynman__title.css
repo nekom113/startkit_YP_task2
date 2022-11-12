@@ -11,3 +11,11 @@
   font-size: 120px;
   font-weight: 600;
 }
+
+@media (max-width: 844px) {
+  .feynman__title {
+    font-size: 100px;
+    line-height: 1;
+
+  }
+}
