@@ -10,7 +10,7 @@
   color: #2f80ed;
 }
 
-@media (max-width: 844px) {
+@media (max-width: 916px) {
   .feynman__link {
     font-size: 26px;
   }

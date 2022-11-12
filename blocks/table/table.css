@@ -9,7 +9,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 844px) {
+@media (max-width: 916px) {
   .table {
   justify-content: space-around;
   gap: 10px;
